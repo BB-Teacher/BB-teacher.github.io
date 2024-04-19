@@ -1,0 +1,43 @@
+img {
+
+border:30px solid green;
+border-radius:200px;
+}
+
+
+p {
+color:slateblue;
+border:30px solid green;
+padding:60px;
+margin: 50px;
+border-style:solid;
+}
+
+h1  {
+color:blue;
+font-size:32px;
+}
+
+body {
+  background-color:lightgreen;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+
+ul {
+  list-style-type: none;
+}
+
+
+li {
+  float: left;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #cbddba;
+}
